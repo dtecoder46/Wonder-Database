@@ -1,0 +1,177 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-image: linear-gradient(white,yellow,#395620);
+}
+
+#title {
+  padding-left: 5%;
+  color: green;
+}
+
+#database_header {
+  color: green;
+}
+
+#trumpet_link, #peri_link {
+  padding-left: 5%;
+  color: green;
+}
+
+#common {
+  text-align: center;
+  color: #00a3d7;
+}
+
+#latin {
+  text-align: center;
+  color: #00a3d7;
+  font-style: italic;
+}
+
+#live_learn {
+  text-align: center;
+  color: #cde8b5;
+}
+
+#discover {
+  text-align: center;
+  color: #cde8b5;
+}
+
+#nav_link1 {
+  padding-left: 5%;
+  color: green;
+}
+
+#nav_link2 {
+  padding-left: 30%;
+  color: green;
+}
+
+#nav_div {
+  margin: auto;
+}
+
+ul {
+  list-style-type: none;
+  margin: 10;
+  padding: 10;
+}
+
+li {
+  float: left;
+}
+
+a {
+  padding: 8px;
+}
+
+#entry_div {
+  text-align: center;
+}
+
+#home_link {
+  color: green;
+  padding: 5px;
+}
+
+#data_link {
+  color: green;
+  padding: 5px;
+}
+
+#entry_div {
+  text-align: left;
+  padding-left: 15%;
+  color: green;
+}
+
+th {
+  padding-right: 15px;
+}
+
+#hook {
+  background-image: url(images/periwinkle.jpeg);
+  padding: 5px;
+}
+
+#name {
+  padding: 5px;
+  color: #00a3d7;
+}
+
+#trumpet_panel {
+  padding-left: 5%;
+}
+
+#img {
+  height: 180px;
+  width: 180px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#art {
+  padding: 5px;
+  color: #00a3d7;
+}
+
+#draw {
+  height: 200px;
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#facts {
+  padding: 5px;
+  color: #00a3d7;
+}
+
+#life {
+  padding: 5px;
+  color: #00a3d7;
+}
+
+#updates {
+  padding: 5px;
+  color: #000000;
+}
+
+#up_table, #th, #tr_update, #td, #fact_table, #tr_fact {
+  border: 1px solid #000000;
+  border-collapse: collapse;
+  padding: 5px;
+  color: #000000;
+  margin: auto;
+  width: 50%;
+  
+}
+
+#Updates {
+  color: #00a3d7;
+  padding: 5px;
+}
+
+#fact_sheet {
+  text-align: center;
+  color: #00a3d7;
+}
+
+#q_head {
+  text-align: center;
+  color: #00a3d7;
+}
+
+#wonder_q {
+  text-align: center;
+  color: #000000;
+}
+
+#ref_div {
+  text-align: center;
+  color: #00a3d7;
+}
